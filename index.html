@@ -5,26 +5,68 @@
     <title>Portfolio</title>
 
     <!-- Google fonts -->
-    <link href="https://fonts.googleapis.com/css?family=Raleway:300" rel="stylesheet">
+     <link href="https://fonts.googleapis.com/css?family=Raleway:300" rel="stylesheet">
+
+    <!-- Material Icons-->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 
     <!-- Materialize CSS -->
-    <link rel=a"stylesheet" href="css/materialize.min.css">
+    <link rel="stylesheet" href="css/materialize.css">
+
+    <!-- Materialize CSS Social Icons -->
+    <link rel="stylesheet" href="css/materialize-social.css">
 
     <!-- My own CSS styling -->
-    <link rel="stylesheet" href="css/mycss.css">
+     <link rel="stylesheet" href="css/mycss.css">
 
 </head>
 
-<body>
+<body class="amber blue-grey-text">
 
-    <div class="container">
+    <div class="container my-container ">
 
-        <div class="section">
-            <h1> Hi, I'm Tim, a front-end warrior, based in Oslo. </h1>
+        <div class="card my-card">
+
+            <!--
+            <img src="/images/profile-picture.png" alt="" class="circle responsive-img">
+            -->
+
+            <h3 class="blue-grey-text"> Hi, I'm Tim, a front-end warrior, based in Oslo. </h3>
+
+            <div class="divider my-divider red"></div>
+
+            <p> Cobaltums manducare in revalia! Ollas messis in avenio! Clabulares tolerare, tanquam dexter victrix. Salvus gallus sapienter visums species est.
+            I make the world a better place with my recent <a href="work.html"> work.</a> Anyways feel free to say <a href="mailto:kkchambwe@gmail.com">holla!</a></p>
+
+            <br> <br>
+            <!-- Break of line x2 -->
 
             <div class="divider"></div>
 
-            <div class="teal"> Cobaltums manducare in revalia! Ollas messis in avenio! Clabulares tolerare, tanquam dexter victrix. Salvus gallus sapienter visums species est.</div>
+            <div class="section my-section center-align">
+
+                <!-- Linked-in icon -->
+                <a class="waves-effect waves-light btn-floating btn-large social github">
+                    <i class="fa fa-github"> </i> My Projects
+                </a>
+
+
+            </div>
+
+        </div>
+
+        <!-- Floating Action Button aka FAB -->
+        <div class="fixed-action-btn horizontal ">
+            <a class="btn-floating btn-large pulse red">
+                <i class="large material-icons">menu</i>
+            </a>
+            <ul>
+                <li> <a class="btn-floating blue darken-4" href=tel:94835563" > <i class="material-icons">phone </i> </a> </li>
+
+                <li> <a class="btn-floating deep-orange" href="mailto:kkchambwe@gmail.com"> <i class="material-icons">email</i> </a> </li>
+
+                <li> <a> </a></li>
+            </ul>
         </div>
 
     </div>
@@ -32,9 +74,14 @@
 
     <!--jQuery -->
     <script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+
     <!-- JavaScript -->
-    <script src="js/materialize.min.js"></script>
+    <script src="js/materialize.js"></script>
+
+    <!-- Font Awsome CSS/Icons -->
+    <script src="https://use.fontawesome.com/7c3350889f.js"></script>
 
 </body>
+
 
 </html>

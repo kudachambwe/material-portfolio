@@ -1,5 +1,32 @@
 
 body {
     font-family: 'Raleway', sans-serif;
-    font-size: 38px;
+    font-size: 20px;
+}
+
+
+/* ---- Own classes ---- */
+
+.my-container {
+    padding-top: 150px;
+}
+
+.my-card {
+    /* Shorthand property */
+    padding: 5rem 2rem 1rem 2rem;
+    /*
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+   */
+}
+
+.my-divider {
+    width: 90px;
+    height: 2px ;
+}
+
+.my-primary-color {
+    background-color: #897F26;
 }
