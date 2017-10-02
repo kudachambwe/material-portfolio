@@ -1,5 +1,5 @@
-# material-portfolio
-A basic html/css portfolio webpage using Materialize css framework
+# Materialize Portfolio Website
+> A basic html/css portfolio webpage mainly using Materialize CSS framework.
 
 
 ## Resources
@@ -14,3 +14,17 @@ A basic html/css portfolio webpage using Materialize css framework
 
 ## Other Resources
 * [Coolors](https://coolors.co) -- Color scheme + color generator tool
+* [Boostrap](http://getbootstrap.com) -- A front-end library similar to Materialize
+* [Tachyons](http://tachyons.io) -- A more unique, modern front-end library
+
+
+## What next?
+
+* Continue working with the website (eks. buttons, page navigation etc..)
+* Fix your linkedin and/or github!
+* Buy domain (eg. mysite.com) -- example [One.com](https://www.one.com/no/domene/kjope-domene)
+* ... or use [your personal](http://www.uio.no/tjenester/it/web/personlig-nettside/hjelp/www.html) UiO website(!)
+* Make a ton of projects!!
+
+## Author
+* Kudakwashe Chambwe - [Developer](https://github.com/kudachambwe)
