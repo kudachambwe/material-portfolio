@@ -8,7 +8,7 @@ body {
 /* ---- Own classes ---- */
 
 .my-container {
-    padding-top: 150px;
+    padding-top: 80px;
 }
 
 .my-card {
@@ -24,9 +24,12 @@ body {
 
 .my-divider {
     width: 90px;
-    height: 2px ;
 }
 
 .my-primary-color {
     background-color: #897F26;
+}
+
+.my-img {
+    width: 20%;
 }

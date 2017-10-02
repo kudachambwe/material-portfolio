@@ -9,3 +9,8 @@ A basic html/css portfolio webpage using Materialize css framework
 * [Uplabs](https://www.uplabs.com) -- Getting inspiration.
 * [Google Fonts](https://fonts.google.com) -- Choosing a cool font
 * [Material-Social Icons](https://terrymooreii.github.io/materialize-social/) -- Additional icons for Materialize
+* [Font Awsome](http://fontawesome.io) -- THE font and CSS toolkit
+
+
+## Other Resources
+* [Coolors](https://coolors.co) -- Color scheme + color generator tool
