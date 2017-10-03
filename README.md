@@ -1,10 +1,45 @@
 # Materialize Portfolio Website
-> A basic html/css portfolio webpage mainly using Materialize CSS framework.
+> A basic HTML/CSS portfolio webpage mainly using Materialize CSS framework.
+
+The concept with the website is to create a portfolio website using a Card-Based Web Design using a
+Material Design CSS Framework and Library called [Materialize](materializecss.com/getting-started.html).
+It provides HTML code, CSS and Javascript, making it much easier to get started with web development.
 
 
-## Resources
 
-* [Materialize](materializecss.com/getting-started.html) -- Documentation for Material CSS
+## Table of contents
+* [Get started](#get-started)
+* [Step-by-step-instructions](#step-by-step-instructions)
+* [Built with](#built-with)
+
+
+## Get started 
+
+1. Install an editor/IDE
+
+This short course will use **WebStorm**, it is not required, but I absolutely recommend it because (1)
+it makes coding much easier with many tools and add-ons that are extremely practical, and (2) a powerful
+tool that is FREE(!) for students. However you need to [register](https://www.jetbrains.com/student/) with your UiO-email
+and you'll have access to many other products from Jetbrains. **Highly recommended!**
+
+Alternatively other editors (Sublime/Atom/Brackets etc.) work perfectly fine too, but if you want to learn how
+to use WebStorm in the same process, then :thumbsup:    
+
+2. Install necessary packages  
+
+The first packages that need to be installed prior is (1) [Materialize](http://materializecss.com/getting-started.html)
+files and application to get access to (2) [Font Awsome](http://fontawesome.io) which requires a very quick email
+registration process. The remaining/other packages are installed as we code...
+
+## Step-by-step instructions
+
+..
+
+
+
+## Built with
+
+* [Materialize](materializecss.com/getting-started.html) -- Documentation for Material CSS Framework and libary
 * [Material Palette](https://www.materialpalette.com) -- Tool for choosing a cool palette.
 * [Uplabs](https://www.uplabs.com) -- Getting inspiration.
 * [Google Fonts](https://fonts.google.com) -- Choosing a cool font
