@@ -9,6 +9,11 @@ It provides HTML code, CSS and Javascript, making it much easier to get started 
 ## Table of contents
 * [Get started](#get-started)
 * [Step-by-step-instructions](#step-by-step-instructions)
+    1. [Get inspired](#get-inspired)
+    2. [Setup index.html](#setup-index.html)
+    3. [Choose palette](#choose-palette)
+    4. [Choose font](#choose-font)
+    5. [Start Coding](#start-coding)
 * [Built with](#built-with)
 
 
