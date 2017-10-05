@@ -7,6 +7,8 @@ It provides HTML code, CSS and Javascript, making it much easier to get started 
 
 
 ## Table of contents
+* [What is Material Design?](#what-is-material-design)
+* [Why Materialize CSS?](#why-materialize-css)
 * [Get started](#get-started)
 * [Step-by-step-instructions](#step-by-step-instructions)
     1. [Get inspired](#0-get-inspired)
@@ -15,6 +17,9 @@ It provides HTML code, CSS and Javascript, making it much easier to get started 
     4. [Choose font](#3-choose-font)
     5. [Start Coding](#4-start-coding)
 * [Built with](#5-built-with)
+* [Other Resources](#other-resources)
+* [Want to learn more?](#want-to-learn-more)
+* [What's next?](#whats-next)
 
 ## What is Material Design?
 
@@ -22,7 +27,7 @@ It provides HTML code, CSS and Javascript, making it much easier to get started 
 along with innovation and technology. The **goal** is system design that allows for a unified
 user experience across all their products on any platform.
 
-## Why Materialize CSS
+## Why Materialize CSS?
 A **CSS framework and library** based on Material Design that **offers ready-to-use components and styles**. Makes
 it super easy to start building responsive web apps and sites.
 
@@ -145,7 +150,7 @@ it easier to style our page afterwards :wink:
 * [Tutorialspoint](https://www.tutorialspoint.com/html/) -- Tutorials, code examples and documentation
 * [W3Schools](https://www.w3schools.com/html/default.asp) -- More tutorials, code examples and documentation
 
-## What next?
+## What's next?
 
 * Continue working with the website (e.g. buttons, page navigation etc..)
 * Fix your LinkedIn and/or GitHub!
