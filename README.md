@@ -9,12 +9,25 @@ It provides HTML code, CSS and Javascript, making it much easier to get started 
 ## Table of contents
 * [Get started](#get-started)
 * [Step-by-step-instructions](#step-by-step-instructions)
-    1. [Get inspired](#get-inspired)
-    2. [Setup index.html](#setup-index.html)
-    3. [Choose palette](#choose-palette)
-    4. [Choose font](#choose-font)
-    5. [Start Coding](#start-coding)
-* [Built with](#built-with)
+    1. [Get inspired](#0-get-inspired)
+    2. [Setup index.html](#1-setup-index.html)
+    3. [Choose palette](#2-choose-palette)
+    4. [Choose font](#3-choose-font)
+    5. [Start Coding](#4-start-coding)
+* [Built with](#5-built-with)
+
+## What is Material Design?
+
+[Material Design](https://material.io/guidelines/#){:target="_blank"} is a design language created and designed by Google, combining classical principles of successful design
+along with innovation and technology. The **goal** is system design that allows for a unified
+user experience across all their products on any platform.
+
+## Why Materialize CSS
+A **CSS framework and library** based on Material Design that **offers ready-to-use components and styles**. Makes
+it super easy to start building responsive web apps and sites.
+
+There are many other popular frameworks based on Material Design, such as [Material Design Lite](https://getmdl.io)
+,[Material-UI](http://www.material-ui.com/#/), [MUI](https://www.muicss.com) and many more..
 
 
 ## Get started
@@ -34,6 +47,13 @@ to use WebStorm in the same process, then :thumbsup:
 The first packages that need to be installed prior is (1) [Materialize](http://materializecss.com/getting-started.html)
 files and apply (i.e enter email) to get access to (2) [Font Awsome](http://fontawesome.io) which requires a very quick email
 registration process. The remaining/other packages are installed as we code...
+
+Direct link to Font-Awsome can be simply copying this link:
+
+```
+<script src="https://use.fontawesome.com/7c3350889f.js"></script>
+
+```
 
 ## Step-by-step instructions
 
@@ -87,7 +107,7 @@ It helps us to easily choose and import cool fonts to work with.
 
 Inside `init/index.html` we have our starting point, and from here we start coding..
 
-```
+```html
 ...
     <div class="container">
         <!--- START HTML CODE-->
@@ -99,7 +119,7 @@ Inside `init/index.html` we have our starting point, and from here we start codi
 
 ```
 
-We start with a container, and because the Materialize CSS handles all the padding and margins for us.
+We start with a [container](http://materializecss.com/grid.html), and because the Materialize CSS handles all the padding and margins for us.
 The main idea with this is that we get get a grouping for our code, and it also makes
 it easier to style our page afterwards :wink:
 
@@ -115,18 +135,23 @@ it easier to style our page afterwards :wink:
 
 ## Other Resources
 * [Coolors](https://coolors.co) -- Color scheme + color generator tool
-* [Boostrap](http://getbootstrap.com) -- A front-end library similar to Materialize
+* [Bootstrap](http://getbootstrap.com) -- A front-end library similar to Materialize
 * [Tachyons](http://tachyons.io) -- A more unique, modern front-end library
-* [Designspiration](https://www.designspiration.net)
+* [Designspiration](https://www.designspiration.net) -- Design inspiration website, for ervything including web design
 
+
+## Want to learn more?
+* [MDN Web Docs]() -- Comprehensive guide for everything web development, HTML/CSS, HTTP, Javascript etc.
+* [Tutorialspoint](https://www.tutorialspoint.com/html/) -- Tutorials, code examples and documentation
+* [W3Schools](https://www.w3schools.com/html/default.asp) -- More tutorials, code examples and documentation
 
 ## What next?
 
-* Continue working with the website (eks. buttons, page navigation etc..)
-* Fix your linkedin and/or github!
-* Buy domain (eg. mysite.com) -- example [One.com](https://www.one.com/no/domene/kjope-domene)
+* Continue working with the website (e.g. buttons, page navigation etc..)
+* Fix your LinkedIn and/or GitHub!
+* Buy domain (e.g. mysite.com) -- example [One.com](https://www.one.com/no/domene/kjope-domene)
 * ... or use [your personal](http://www.uio.no/tjenester/it/web/personlig-nettside/hjelp/www.html) UiO website(!)
-* Make a ton of projects!!
+* Make a ton of projects!! :tada:
 
 ## Author
 * Kudakwashe Chambwe - [Developer](https://github.com/kudachambwe)
