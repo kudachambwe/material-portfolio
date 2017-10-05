@@ -18,7 +18,7 @@ It provides HTML code, CSS and Javascript, making it much easier to get started 
 
 ## What is Material Design?
 
-[Material Design](https://material.io/guidelines/#){:target="_blank"} is a design language created and designed by Google, combining classical principles of successful design
+[Material Design](https://material.io/guidelines/#) is a design language created and designed by Google, combining classical principles of successful design
 along with innovation and technology. The **goal** is system design that allows for a unified
 user experience across all their products on any platform.
 
